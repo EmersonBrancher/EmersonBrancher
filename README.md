@@ -25,6 +25,6 @@
 In case of want to change de icons
 https://devicon.dev/
 
-In case of want to add the repository snake game search for rafaballerini video at Youtube
+In case of want to add the repository snake game search for rafaballerini video at  Youtube
 
   -->
