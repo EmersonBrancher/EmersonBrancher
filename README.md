@@ -1,5 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonBrancher)](https://github.com/EmersonBrancher/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonBrancher&show_icons=true)
+![Emerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonBrancher&show_icons=true&theme=dark)
 
 ## Hi! I'm Emerson Brancher ##
  <div>
