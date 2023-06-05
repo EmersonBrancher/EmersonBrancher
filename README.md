@@ -1,8 +1,7 @@
 ## Hi! I'm Emerson Brancher ##
 
 ![Emerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonBrancher&show_icons=true&theme=merko&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonBrancher)
 <!--
  <div>
   <a href="https://github.com/EmersonBrancher">
