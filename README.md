@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonBrancher)](https://github.com/anuraghazra/github-readme-stats)
 ## Hi! I'm Emerson Brancher ##
  <div>
   <a href="https://github.com/EmersonBrancher">
