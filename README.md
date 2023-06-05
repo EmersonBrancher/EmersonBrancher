@@ -1,7 +1,7 @@
 ## Hi! I'm Emerson Brancher ##
 
 ![Emerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonBrancher&show_icons=true&theme=merko&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonBrancher&layout=compact&theme=merko)](https://github.com/EmersonBrancher/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonBrancher&layout=compact&theme=merko&size_weight=0.5&count_weight=0.5)
 <!--
  <div>
   <a href="https://github.com/EmersonBrancher">
