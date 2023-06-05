@@ -1,4 +1,4 @@
-![Emerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonBrancher&show_icons=true&theme=radical)
+![Emerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonBrancher&show_icons=true&theme=merko)
 
 ## Hi! I'm Emerson Brancher ##
  <div>
